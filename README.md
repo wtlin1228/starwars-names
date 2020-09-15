@@ -1,3 +1,3 @@
-# starwars-names
+# white-chicks-names
 
-For all your random Star Wars character needs
+For all your random White Chicks character needs

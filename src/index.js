@@ -1,9 +1,9 @@
 import uniqueRandomArray from 'unique-random-array'
-const starWarsNames = require('./starwars-names.json')
+const whiteChicks = require('./white-chicks.json')
 
 const mainExport = {
-  all: starWarsNames,
-  random: uniqueRandomArray(starWarsNames),
+  all: whiteChicks,
+  random: uniqueRandomArray(whiteChicks),
 }
 
 export default mainExport
